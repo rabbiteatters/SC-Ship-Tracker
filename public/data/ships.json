@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-04T00:00:00.000Z",
+  "dataMode": "curated-evidence",
+  "ships": [
+    {
+      "id": "drake-kraken",
+      "name": "Kraken",
+      "manufacturer": "Drake Interplanetary",
+      "status": "In Development",
+      "stage": "LOD0 / Final",
+      "lastUpdated": "2026-09",
+      "confidence": "high",
+      "summary": "September report described continued LOD0 work across the ship, including transport lifts and engineering spaces.",
+      "sourceTitle": "September 2026 Monthly Report",
+      "sourceUrl": "https://robertsspaceindustries.com/comm-link/transmission/",
+      "evidence": "Continued through LOD0 across the ship; transport lifts, engineering rooms and capital components were integrated.",
+      "history": [
+        {
+          "date": "2026-07",
+          "stage": "Greybox",
+          "note": "Passed greybox gate."
+        },
+        {
+          "date": "2026-08",
+          "stage": "LOD0 / Final",
+          "note": "LOD0 work reported."
+        },
+        {
+          "date": "2026-09",
+          "stage": "LOD0 / Final",
+          "note": "Continued LOD0 work."
+        }
+      ]
+    },
+    {
+      "id": "rsi-galaxy",
+      "name": "Galaxy",
+      "manufacturer": "Roberts Space Industries",
+      "status": "In Development",
+      "stage": "LOD0 / Final",
+      "lastUpdated": "2026-09",
+      "confidence": "high",
+      "summary": "Passed greybox gate review and moved into LOD0; module work continued.",
+      "sourceTitle": "September 2026 Monthly Report",
+      "sourceUrl": "https://robertsspaceindustries.com/comm-link/transmission/",
+      "evidence": "Passed greybox gate review and moved into LOD0, refining corridors, wall sections, lighting and signage; modules ongoing.",
+      "history": [
+        {
+          "date": "2026-08",
+          "stage": "Greybox",
+          "note": "Greybox phase reported."
+        },
+        {
+          "date": "2026-09",
+          "stage": "LOD0 / Final",
+          "note": "Passed greybox gate and moved into LOD0."
+        }
+      ]
+    },
+    {
+      "id": "anvil-liberator",
+      "name": "Liberator",
+      "manufacturer": "Anvil Aerospace",
+      "status": "In Development",
+      "stage": "LOD0 / Final",
+      "lastUpdated": "2026-09",
+      "confidence": "high",
+      "summary": "Greybox work wrapped up; substantial areas were progressing into LOD0. Formal review was expected in early October.",
+      "sourceTitle": "September 2026 Monthly Report",
+      "sourceUrl": "https://robertsspaceindustries.com/comm-link/transmission/",
+      "evidence": "Greybox work wrapped up; large areas had progressed well into LOD0/Final, with formal gate review due early October.",
+      "history": [
+        {
+          "date": "2026-08",
+          "stage": "Greybox",
+          "note": "Greybox phase reported."
+        },
+        {
+          "date": "2026-09",
+          "stage": "LOD0 / Final",
+          "note": "Greybox work wrapped up; areas progressing into LOD0."
+        }
+      ]
+    },
+    {
+      "id": "anvil-legionnaire",
+      "name": "Legionnaire",
+      "manufacturer": "Anvil Aerospace",
+      "status": "In Development",
+      "stage": "Whitebox",
+      "lastUpdated": "2024-04",
+      "confidence": "low",
+      "summary": "Historical last-known milestone only; no newer report evidence included in this starter dataset.",
+      "sourceTitle": "Community historical pipeline index",
+      "sourceUrl": "https://citizen-starter-guide.com/ship-development-pipeline/",
+      "evidence": "Whitebox completion recorded April 2024. Stale historical evidence; not confirmation of current activity.",
+      "history": [
+        {
+          "date": "2024-04",
+          "stage": "Whitebox",
+          "note": "Historical whitebox milestone."
+        }
+      ]
+    },
+    {
+      "id": "cno-pioneer",
+      "name": "Pioneer",
+      "manufacturer": "Consolidated Outland",
+      "status": "In Development",
+      "stage": "Whitebox",
+      "lastUpdated": "2025-05",
+      "confidence": "low",
+      "summary": "Historical last-known milestone only; no newer report evidence included in this starter dataset.",
+      "sourceTitle": "Community historical pipeline index",
+      "sourceUrl": "https://citizen-starter-guide.com/ship-development-pipeline/",
+      "evidence": "Whitebox work was reported through May 2025. No release estimate inferred.",
+      "history": [
+        {
+          "date": "2025-05",
+          "stage": "Whitebox",
+          "note": "Whitebox work continued."
+        }
+      ]
+    },
+    {
+      "id": "aegis-javelin",
+      "name": "Javelin",
+      "manufacturer": "Aegis Dynamics",
+      "status": "In Development",
+      "stage": "Unspecified",
+      "lastUpdated": "unknown",
+      "confidence": "low",
+      "summary": "Listed as in development without a confirmed production gate in this starter dataset.",
+      "sourceTitle": "Community pipeline index",
+      "sourceUrl": "https://citizen-starter-guide.com/ship-development-pipeline/",
+      "evidence": "Listed as in development; no gate assigned without dated evidence.",
+      "history": []
+    }
+  ]
+}

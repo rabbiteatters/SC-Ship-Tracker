@@ -1,0 +1,26 @@
+[
+  {
+    "name": "RSI Comm-Link",
+    "url": "https://robertsspaceindustries.com/comm-link/transmission/",
+    "kind": "official",
+    "note": "Primary source for monthly reports and ship development statements."
+  },
+  {
+    "name": "RSI Progress Tracker",
+    "url": "https://robertsspaceindustries.com/roadmap/board/1-Star-Citizen%3D",
+    "kind": "official",
+    "note": "Team task visibility; not a ship completion or release-date promise."
+  },
+  {
+    "name": "Star Citizen API",
+    "url": "https://api.starcitizen-api.com",
+    "kind": "community-api",
+    "note": "Optional structured API; keep API key server-side in Actions secrets."
+  },
+  {
+    "name": "Citizen Starter Guide pipeline",
+    "url": "https://citizen-starter-guide.com/ship-development-pipeline/",
+    "kind": "community",
+    "note": "Historical development gates; verify milestones against original reports."
+  }
+]
